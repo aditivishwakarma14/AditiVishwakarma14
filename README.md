@@ -86,15 +86,7 @@ Tax management platform for expense tracking, tax filing assistance, and financi
 - NPTEL Database Management Systems
 
 ---
-## Activity Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AditiVishwakarma14&theme=tokyo-night&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AditiVishwakarma14/AditiVishwakarma14/output/github-contribution-grid-snake.svg" />
-</p>
 ## Statistics
 
 <p align="center">
