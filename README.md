@@ -16,15 +16,14 @@ Computer Science Student • Full Stack Developer • AWS Certified
 
 Computer Science and Information Technology student at Acropolis Institute of Technology and Research, Indore.
 
-Focused on building scalable web applications and strengthening foundations in software engineering, cloud technologies, and data structures.
+Focused on backend engineering, cloud technologies, scalable web applications, and problem solving through data structures and algorithms.
 
-Current areas of interest:
+Current areas of focus:
 
-- Full Stack Development
-- Backend Engineering
-- Cloud Computing
+- MERN Stack Development
 - Data Structures & Algorithms
-- System Design
+- AWS Cloud Computing
+- System Design Fundamentals
 
 ---
 
@@ -76,7 +75,7 @@ AI-assisted milk quality testing platform developed using the MERN Stack with au
 
 ### TaxSaathi
 
-Smart tax management platform for expense tracking, tax filing assistance, and financial insights.
+Tax management platform for expense tracking, tax filing assistance, and financial insights.
 
 ---
 
@@ -88,21 +87,10 @@ Smart tax management platform for expense tracking, tax filing assistance, and f
 
 ---
 
-## Coding Profiles
-
-- LeetCode: https://leetcode.com/u/monuVishwakarma14/
-- GitHub: https://github.com/AditiVishwakarma14
-- LinkedIn: https://www.linkedin.com/in/aditi-vishwakarma-31423433b/
-
----
-
 ## Statistics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=AditiVishwakarma14&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=AditiVishwakarma14&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -116,12 +104,21 @@ Smart tax management platform for expense tracking, tax filing assistance, and f
 
 ---
 
+## Competitive Programming
+
+- LeetCode Rating: 1531+
+- Highest Rating: 1549+
+- 280+ Problems Solved
+- Active Contest Participant
+
+---
+
 ## Experience & Interests
 
 - Full Stack Web Development
 - Backend Development
 - Database Design
-- Cloud Computing
+- Cloud Architecture
 - Competitive Programming
 
 ---
