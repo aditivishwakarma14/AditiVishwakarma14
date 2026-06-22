@@ -1,7 +1,7 @@
 <h1 align="center">Aditi Vishwakarma</h1>
 
 <p align="center">
-Full Stack Developer • Computer Science Student • AWS Certified
+Computer Science Student • Full Stack Developer • AWS Certified
 </p>
 
 <p align="center">
@@ -16,14 +16,15 @@ Full Stack Developer • Computer Science Student • AWS Certified
 
 Computer Science and Information Technology student at Acropolis Institute of Technology and Research, Indore.
 
-Interested in backend engineering, scalable web applications, cloud technologies, and problem solving.
+Focused on building scalable web applications and strengthening foundations in software engineering, cloud technologies, and data structures.
 
-Currently focused on:
+Current areas of interest:
 
-- MERN Stack Development
-- Data Structures and Algorithms
-- AWS Cloud Services
-- System Design Fundamentals
+- Full Stack Development
+- Backend Engineering
+- Cloud Computing
+- Data Structures & Algorithms
+- System Design
 
 ---
 
@@ -67,25 +68,15 @@ Currently focused on:
 
 ---
 
-## Experience & Interests
-
-- Full Stack Web Development
-- Backend Development
-- Database Design
-- Cloud Computing
-- Competitive Programming
-
----
-
 ## Projects
 
 ### MilkoSense
 
-AI-assisted milk quality testing platform built using MERN Stack with authentication, sensor integration, and real-time analysis.
+AI-assisted milk quality testing platform developed using the MERN Stack with authentication, sensor integration, and real-time analysis.
 
 ### TaxSaathi
 
-Tax management platform for expense tracking, tax filing assistance, and financial insights.
+Smart tax management platform for expense tracking, tax filing assistance, and financial insights.
 
 ---
 
@@ -99,27 +90,39 @@ Tax management platform for expense tracking, tax filing assistance, and financi
 
 ## Coding Profiles
 
-LeetCode: https://leetcode.com/u/monuVishwakarma14/
-
-GitHub: https://github.com/AditiVishwakarma14
-
-LinkedIn: https://www.linkedin.com/in/aditi-vishwakarma-31423433b/
+- LeetCode: https://leetcode.com/u/monuVishwakarma14/
+- GitHub: https://github.com/AditiVishwakarma14
+- LinkedIn: https://www.linkedin.com/in/aditi-vishwakarma-31423433b/
 
 ---
 
 ## Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AditiVishwakarma14&show_icons=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AditiVishwakarma14&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=AditiVishwakarma14&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=AditiVishwakarma14&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AditiVishwakarma14&layout=compact&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AditiVishwakarma14&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/monuVishwakarma14?theme=dark&font=Karma&ext=contest" />
+</p>
+
+---
+
+## Experience & Interests
+
+- Full Stack Web Development
+- Backend Development
+- Database Design
+- Cloud Computing
+- Competitive Programming
 
 ---
 
