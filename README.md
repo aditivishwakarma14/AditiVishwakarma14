@@ -87,7 +87,7 @@ Currently focused on:
 
 A multi-agent AI platform that intelligently routes user requests to specialized AI agents.
 
-The platform supports chat, web search, coding, PDF, PPT, and image generation workflows using agentic architecture and retrieval-based systems.
+The platform supports chat, web search, coding, PDF, PPT, and image generation workflows using LangGraph, LangChain, RAG, and agentic architecture.
 
 **Tech Stack:**  
 LangChain • LangGraph • RAG • React.js • Node.js • MongoDB
@@ -96,18 +96,20 @@ LangChain • LangGraph • RAG • React.js • Node.js • MongoDB
 
 ### RealTalk
 
-A real-time chat application designed for instant communication with a clean and responsive user interface.
+A real-time chat application built for instant communication with a clean and responsive interface.
 
-The application includes user authentication and real-time messaging capabilities using Socket.io.
+The application provides user authentication and real-time messaging using Socket.io, along with a modern React-based frontend.
 
 **Tech Stack:**  
 React.js • Node.js • Express.js • Socket.io • MongoDB • Tailwind CSS
+
+---
 
 ### MilkoSense
 
 An AI-assisted milk quality testing platform developed for rapid assessment of milk quality using sensor data and intelligent analysis.
 
-The project integrates multiple sensors with AI/ML-based analysis to support faster milk quality evaluation.
+The system integrates multiple sensors with AI/ML-based analysis to support faster and more reliable milk quality evaluation.
 
 **Tech Stack:**  
 ESP32 • Sensors • AI/ML • React.js • Node.js • Firebase
@@ -125,9 +127,23 @@ ESP32 • Sensors • AI/ML • React.js • Node.js • Firebase
 ## LeetCode
 
 <p align="center">
-  <a href="https://leetcode.com/u/monuVishwakarma14/">
-    <img src="https://leetcard.jacoblin.cool/monuVishwakarma14?theme=dark&font=Karma" />
-  </a>
+
+<a href="https://leetcode.com/u/monuVishwakarma14/">
+
+<b>⚡ LeetCode Profile</b>
+
+</a>
+
+</p>
+
+<p align="center">
+Solving Data Structures & Algorithms problems consistently to improve problem-solving and competitive programming skills.
+</p>
+
+<p align="center">
+<a href="https://leetcode.com/u/monuVishwakarma14/">
+View My LeetCode Profile →
+</a>
 </p>
 
 ---
@@ -142,29 +158,6 @@ ESP32 • Sensors • AI/ML • React.js • Node.js • Firebase
 - Cloud Architecture
 - System Design
 - Competitive Programming
-
----
-
-## GitHub Statistics
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=AditiVishwakarma14&show_icons=true&theme=tokyonight&hide_border=true"
-  />
-
-  <img
-    height="170"
-    src="https://streak-stats.demolab.com?user=AditiVishwakarma14&theme=tokyonight&hide_border=true"
-  />
-</p>
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AditiVishwakarma14&layout=compact&theme=tokyonight&hide_border=true"
-  />
-</p>
 
 ---
 
