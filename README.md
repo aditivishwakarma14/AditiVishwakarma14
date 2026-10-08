@@ -83,7 +83,7 @@ Currently focused on:
 
 ## Featured Projects
 
-### SamanvayAI
+### 🚀 SamanvayAI
 
 A multi-agent AI platform that intelligently routes user requests to specialized AI agents.
 
@@ -92,9 +92,13 @@ The platform supports chat, web search, coding, PDF, PPT, and image generation w
 **Tech Stack:**  
 LangChain • LangGraph • RAG • React.js • Node.js • MongoDB
 
+**Links:**  
+🌐 [Live Demo](https://samanvayai.onrender.com) •
+💻 [GitHub Repository](https://github.com/aditivishwakarma14/SamanvayAI)
+
 ---
 
-### RealTalk
+### 💬 RealTalk
 
 A real-time chat application built for instant communication with a clean and responsive interface.
 
@@ -103,9 +107,12 @@ The application provides user authentication and real-time messaging using Socke
 **Tech Stack:**  
 React.js • Node.js • Express.js • Socket.io • MongoDB • Tailwind CSS
 
+**Links:**  
+💻 [GitHub Repository](https://github.com/AditiVishwakarma14)
+
 ---
 
-### MilkoSense
+### 🥛 MilkoSense
 
 An AI-assisted milk quality testing platform developed for rapid assessment of milk quality using sensor data and intelligent analysis.
 
@@ -113,6 +120,9 @@ The system integrates multiple sensors with AI/ML-based analysis to support fast
 
 **Tech Stack:**  
 ESP32 • Sensors • AI/ML • React.js • Node.js • Firebase
+
+**Links:**  
+💻 [GitHub Repository](https://github.com/AditiVishwakarma14)
 
 ---
 
@@ -160,6 +170,14 @@ View My LeetCode Profile →
 - Competitive Programming
 
 ---
+
+<p align="center">
+
+<a href="https://samanvayai.onrender.com">
+<img src="https://img.shields.io/badge/🚀_Try_SamanvayAI-Live_Demo-success?style=for-the-badge" />
+</a>
+
+</p>
 
 <p align="center">
 Building reliable software through continuous learning, problem solving, and consistent practice.
